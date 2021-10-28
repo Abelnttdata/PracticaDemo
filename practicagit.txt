@@ -1,0 +1,21 @@
+1- Investigar 2 comandos no vistos en clase (Ej: Git rebase, Git Fetch)
+	git log se usa para ver el historial del repositorio listando ciertos 
+	detalles de la confirmación. Al ejecutar el comando se obtiene una salida como ésta:
+		commit 15f4b6c44b3c8344caasdac9e4be13246e21sadw
+		Author: Alex Hunter <alexh@gmail.com>
+		Date:   Mon Oct 1 12:56:29 2016 -0600
+
+
+
+	git stash guardará momentáneamente los cambios que no están listos para ser confirmados. 
+	De esta manera, pudes volver al proyecto más tarde.
+		git rm filename.txt
+
+2- Investigar Git Fork y cómo funciona
+	Cuando hacemos un fork de un repositorio, se hace una copia exacta en crudo (en inglés «bare») 
+	del repositorio original que podemos utilizar como un repositorio git cualquiera. Después de hacer 
+	fork tendremos dos repositorios git idénticos pero con distinta URL. Justo después de hacer el fork,
+        estos dos repositorios tienen exactamente la misma historia, son una copia idéntica.
+	Cuando haces un fork de un repositorio, se crea un nuevo repositorio en tu cuenta de Github o Bitbucket, 
+	con una URL diferente (fork). Acto seguido tienes que hacer un clon de esa copia sobre la que empiezas a 
+	trabajar de forma que cuando haces push, estás modificando TU COPIA (fork). El repositorio original sigue intacto.
