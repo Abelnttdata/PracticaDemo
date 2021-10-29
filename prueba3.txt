@@ -1,0 +1,5 @@
+Tenemos este txt para realizar un pull request con nuestros compañeros, en mi caso se lo haré a mi compañera Airam para 
+que ella lo verifique y lo apruebe en caso de asi serlo.
+
+
+además haré cambios en la rama "practica1" en el txt practica git para tener varios cambios en el pull

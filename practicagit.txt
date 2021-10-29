@@ -19,3 +19,6 @@
 	Cuando haces un fork de un repositorio, se crea un nuevo repositorio en tu cuenta de Github o Bitbucket, 
 	con una URL diferente (fork). Acto seguido tienes que hacer un clon de esa copia sobre la que empiezas a 
 	trabajar de forma que cuando haces push, estás modificando TU COPIA (fork). El repositorio original sigue intacto.
+
+
+agregamos esta linea para el pull request
